@@ -20,7 +20,7 @@
 
 title: A developer's blog
 author: Miroslav Mareš
-email: mmares.trinity@gmail.com
+email: admin@mmares.cz
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about IT, software, Linux...
 baseurl: "" # the subpath of your site, e.g. /blog
