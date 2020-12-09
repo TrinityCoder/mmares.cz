@@ -1,1 +1,20 @@
 theme: jekyll-theme-minimal
+permalink: /:year/:title:output_ext
+paginate: 5
+
+# Basic blog config.
+lang: cs_CZ
+title: mmares.cz - A developer's blog
+description: IT, Linux, programming etc.
+author: Miroslav Mareš
+email: mmares.trinity@gmail.com
+
+timezone: Europe/Prague
+
+# Default variables for various scopes.
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: Miroslav Mareš
+      comments: true
