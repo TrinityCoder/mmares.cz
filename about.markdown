@@ -17,7 +17,7 @@ I am largely interested in:
 ### Contacts
 
 * e-mail: [admin@mmares.cz](mailto:admin@mmares.cz)
-* my [GPG public key]({{ "/assets/gpg.key" | relative_url }}) (for encrypted communication)
+* my [GPG public key]({{ "/assets/gpg.txt" | relative_url }}) (for encrypted communication)
 * Github account: [TrinityCoder](https://github.com/TrinityCoder)
 * Gitlab account: [mmares.trinity](https://gitlab.com/mmares.trinity)
 
