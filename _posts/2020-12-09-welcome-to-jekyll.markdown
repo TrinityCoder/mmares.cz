@@ -6,5 +6,6 @@ categories: blog
 comments: true
 ---
 This is the first, experimental post on this blog!
+<!-- more -->
 
 Below this post there is a Disqus discussion.

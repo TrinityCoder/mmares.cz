@@ -29,6 +29,7 @@ github_username: TrinityCoder
 permalink: /:year/:title:output_ext
 disqus:
   shortname: mmares-cz
+excerpt_separator: "<!-- more -->"
 show_excerpts: true
 
 # Build settings
