@@ -4,8 +4,8 @@ paginate: 5
 
 # Basic blog config.
 lang: cs_CZ
-title: mmares.cz - A developer's blog
-description: IT, Linux, programming etc.
+title: mmares.cz - Developer's blog
+description: IT, Linux, programming...
 author: Miroslav Mareš
 email: mmares.trinity@gmail.com
 
