@@ -32,10 +32,19 @@ disqus:
 excerpt_separator: "<!-- more -->"
 show_excerpts: true
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: "assets/gpg.txt"
+    values:
+      sitemap: false
+
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
