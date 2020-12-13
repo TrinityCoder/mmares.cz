@@ -32,6 +32,7 @@ disqus:
   shortname: mmares-cz
 excerpt_separator: "<!-- more -->"
 show_excerpts: true
+paginate: 5
 
 # Defaults
 defaults:
