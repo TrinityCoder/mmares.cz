@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+lang: cs
 title: mmares.cz - a developer's blog
 author: Miroslav Mareš
 email: admin@mmares.cz
