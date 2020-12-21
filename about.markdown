@@ -20,6 +20,7 @@ I am largely interested in:
 * my [GPG public key]({{ "/assets/gpg.txt" | relative_url }}) (for encrypted communication)
 * Github account: [TrinityCoder](https://github.com/TrinityCoder)
 * Gitlab account: [mmares.trinity](https://gitlab.com/mmares.trinity)
+* __MojeID card:__ [mmares.trinity](https://mmares-trinity.mojeid.cz/)
 
 [1]: https://en.wikipedia.org/wiki/Czech_Republic
 [2]: https://en.wikipedia.org/wiki/C99
