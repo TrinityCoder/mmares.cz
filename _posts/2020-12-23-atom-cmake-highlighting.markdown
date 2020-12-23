@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CMake syntax highlighting in Atom editor"
-date:   2020-12-09 5:42:00 +0100
+date:   2020-12-23 5:42:00 +0100
 categories: [blog, atom, cmake, syntax]
 comments: true
 ---
