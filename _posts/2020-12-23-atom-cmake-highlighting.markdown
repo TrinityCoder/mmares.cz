@@ -10,7 +10,7 @@ syntax highlighter for [Atom][2]. However, the package
 was discontinued in May 2019, approximately corresponding
 to CMake v3.14.
 
-## My `language-cmake-2` fork
+## My _language-cmake-2_ fork
 I have [forked the project][3] and updated it to the current
 CMake version (3.19.2). I also plan to keep it up-to-date
 in the future.
