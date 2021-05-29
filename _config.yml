@@ -6,7 +6,7 @@ email: admin@mmares.cz
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about IT, software, Linux...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mmares.cz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mmares.cz"
 github_username: TrinityCoder
 permalink: /:year/:title:output_ext
 disqus:
@@ -22,6 +22,12 @@ defaults:
       path: "assets/gpg.txt"
     values:
       sitemap: false
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: site.author
 
 # Build settings
 theme: minima
