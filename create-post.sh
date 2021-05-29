@@ -12,7 +12,7 @@ touch "$FILE_NAME"
 cat - <<EOF > "$FILE_NAME"
 ---
 layout: post
-title:  "$INPUT"
+title:  $INPUT
 date:   $DATE $(date +"%H:%M:%S %z")
 categories: []
 comments: true

@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 lang: en
-title: mmares.cz - a developer's blog
+title: mmares.cz - an IT blog
 author: Miroslav Mareš
 email: admin@mmares.cz
 description: >- # this means to ignore newlines until "baseurl:"
