@@ -12,7 +12,8 @@ I am largely interested in:
 * software development ([C99][2], [C++11][3] to [C++20][4], [Rust][5], [Java][6] etc.),
 * Linux administration ([Debian][7], [Ubuntu][8]),
 * Linux kernel,
-* networking.
+* networking,
+* embedded development.
 
 ### Contacts
 
